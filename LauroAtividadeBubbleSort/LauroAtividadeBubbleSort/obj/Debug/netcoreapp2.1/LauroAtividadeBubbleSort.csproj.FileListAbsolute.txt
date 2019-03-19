@@ -1,0 +1,11 @@
+C:\Users\deivid.lemes\source\repos\LauroAtividadeBubbleSort\LauroAtividadeBubbleSort\bin\Debug\netcoreapp2.1\LauroAtividadeBubbleSort.deps.json
+C:\Users\deivid.lemes\source\repos\LauroAtividadeBubbleSort\LauroAtividadeBubbleSort\bin\Debug\netcoreapp2.1\LauroAtividadeBubbleSort.runtimeconfig.json
+C:\Users\deivid.lemes\source\repos\LauroAtividadeBubbleSort\LauroAtividadeBubbleSort\bin\Debug\netcoreapp2.1\LauroAtividadeBubbleSort.runtimeconfig.dev.json
+C:\Users\deivid.lemes\source\repos\LauroAtividadeBubbleSort\LauroAtividadeBubbleSort\bin\Debug\netcoreapp2.1\LauroAtividadeBubbleSort.dll
+C:\Users\deivid.lemes\source\repos\LauroAtividadeBubbleSort\LauroAtividadeBubbleSort\bin\Debug\netcoreapp2.1\LauroAtividadeBubbleSort.pdb
+C:\Users\deivid.lemes\source\repos\LauroAtividadeBubbleSort\LauroAtividadeBubbleSort\obj\Debug\netcoreapp2.1\LauroAtividadeBubbleSort.csprojAssemblyReference.cache
+C:\Users\deivid.lemes\source\repos\LauroAtividadeBubbleSort\LauroAtividadeBubbleSort\obj\Debug\netcoreapp2.1\LauroAtividadeBubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\deivid.lemes\source\repos\LauroAtividadeBubbleSort\LauroAtividadeBubbleSort\obj\Debug\netcoreapp2.1\LauroAtividadeBubbleSort.AssemblyInfoInputs.cache
+C:\Users\deivid.lemes\source\repos\LauroAtividadeBubbleSort\LauroAtividadeBubbleSort\obj\Debug\netcoreapp2.1\LauroAtividadeBubbleSort.AssemblyInfo.cs
+C:\Users\deivid.lemes\source\repos\LauroAtividadeBubbleSort\LauroAtividadeBubbleSort\obj\Debug\netcoreapp2.1\LauroAtividadeBubbleSort.dll
+C:\Users\deivid.lemes\source\repos\LauroAtividadeBubbleSort\LauroAtividadeBubbleSort\obj\Debug\netcoreapp2.1\LauroAtividadeBubbleSort.pdb

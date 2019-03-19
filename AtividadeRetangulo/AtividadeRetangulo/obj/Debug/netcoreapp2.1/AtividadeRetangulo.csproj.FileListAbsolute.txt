@@ -1,0 +1,11 @@
+C:\Users\deivid.lemes\source\repos\AtividadeRetangulo\AtividadeRetangulo\bin\Debug\netcoreapp2.1\AtividadeRetangulo.deps.json
+C:\Users\deivid.lemes\source\repos\AtividadeRetangulo\AtividadeRetangulo\bin\Debug\netcoreapp2.1\AtividadeRetangulo.runtimeconfig.json
+C:\Users\deivid.lemes\source\repos\AtividadeRetangulo\AtividadeRetangulo\bin\Debug\netcoreapp2.1\AtividadeRetangulo.runtimeconfig.dev.json
+C:\Users\deivid.lemes\source\repos\AtividadeRetangulo\AtividadeRetangulo\bin\Debug\netcoreapp2.1\AtividadeRetangulo.dll
+C:\Users\deivid.lemes\source\repos\AtividadeRetangulo\AtividadeRetangulo\bin\Debug\netcoreapp2.1\AtividadeRetangulo.pdb
+C:\Users\deivid.lemes\source\repos\AtividadeRetangulo\AtividadeRetangulo\obj\Debug\netcoreapp2.1\AtividadeRetangulo.csprojAssemblyReference.cache
+C:\Users\deivid.lemes\source\repos\AtividadeRetangulo\AtividadeRetangulo\obj\Debug\netcoreapp2.1\AtividadeRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\deivid.lemes\source\repos\AtividadeRetangulo\AtividadeRetangulo\obj\Debug\netcoreapp2.1\AtividadeRetangulo.AssemblyInfoInputs.cache
+C:\Users\deivid.lemes\source\repos\AtividadeRetangulo\AtividadeRetangulo\obj\Debug\netcoreapp2.1\AtividadeRetangulo.AssemblyInfo.cs
+C:\Users\deivid.lemes\source\repos\AtividadeRetangulo\AtividadeRetangulo\obj\Debug\netcoreapp2.1\AtividadeRetangulo.dll
+C:\Users\deivid.lemes\source\repos\AtividadeRetangulo\AtividadeRetangulo\obj\Debug\netcoreapp2.1\AtividadeRetangulo.pdb
