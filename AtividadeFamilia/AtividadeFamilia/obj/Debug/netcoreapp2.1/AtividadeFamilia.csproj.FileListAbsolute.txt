@@ -1,0 +1,11 @@
+C:\Users\deivid.lemes\source\repos\AtividadeFamilia\AtividadeFamilia\bin\Debug\netcoreapp2.1\AtividadeFamilia.deps.json
+C:\Users\deivid.lemes\source\repos\AtividadeFamilia\AtividadeFamilia\bin\Debug\netcoreapp2.1\AtividadeFamilia.runtimeconfig.json
+C:\Users\deivid.lemes\source\repos\AtividadeFamilia\AtividadeFamilia\bin\Debug\netcoreapp2.1\AtividadeFamilia.runtimeconfig.dev.json
+C:\Users\deivid.lemes\source\repos\AtividadeFamilia\AtividadeFamilia\bin\Debug\netcoreapp2.1\AtividadeFamilia.dll
+C:\Users\deivid.lemes\source\repos\AtividadeFamilia\AtividadeFamilia\bin\Debug\netcoreapp2.1\AtividadeFamilia.pdb
+C:\Users\deivid.lemes\source\repos\AtividadeFamilia\AtividadeFamilia\obj\Debug\netcoreapp2.1\AtividadeFamilia.csprojAssemblyReference.cache
+C:\Users\deivid.lemes\source\repos\AtividadeFamilia\AtividadeFamilia\obj\Debug\netcoreapp2.1\AtividadeFamilia.csproj.CoreCompileInputs.cache
+C:\Users\deivid.lemes\source\repos\AtividadeFamilia\AtividadeFamilia\obj\Debug\netcoreapp2.1\AtividadeFamilia.AssemblyInfoInputs.cache
+C:\Users\deivid.lemes\source\repos\AtividadeFamilia\AtividadeFamilia\obj\Debug\netcoreapp2.1\AtividadeFamilia.AssemblyInfo.cs
+C:\Users\deivid.lemes\source\repos\AtividadeFamilia\AtividadeFamilia\obj\Debug\netcoreapp2.1\AtividadeFamilia.dll
+C:\Users\deivid.lemes\source\repos\AtividadeFamilia\AtividadeFamilia\obj\Debug\netcoreapp2.1\AtividadeFamilia.pdb

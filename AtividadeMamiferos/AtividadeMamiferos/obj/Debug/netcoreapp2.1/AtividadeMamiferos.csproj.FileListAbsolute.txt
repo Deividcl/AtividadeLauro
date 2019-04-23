@@ -1,0 +1,11 @@
+C:\Users\deivid.lemes\source\repos\AtividadeMamiferos\AtividadeMamiferos\bin\Debug\netcoreapp2.1\AtividadeMamiferos.deps.json
+C:\Users\deivid.lemes\source\repos\AtividadeMamiferos\AtividadeMamiferos\bin\Debug\netcoreapp2.1\AtividadeMamiferos.runtimeconfig.json
+C:\Users\deivid.lemes\source\repos\AtividadeMamiferos\AtividadeMamiferos\bin\Debug\netcoreapp2.1\AtividadeMamiferos.runtimeconfig.dev.json
+C:\Users\deivid.lemes\source\repos\AtividadeMamiferos\AtividadeMamiferos\bin\Debug\netcoreapp2.1\AtividadeMamiferos.dll
+C:\Users\deivid.lemes\source\repos\AtividadeMamiferos\AtividadeMamiferos\bin\Debug\netcoreapp2.1\AtividadeMamiferos.pdb
+C:\Users\deivid.lemes\source\repos\AtividadeMamiferos\AtividadeMamiferos\obj\Debug\netcoreapp2.1\AtividadeMamiferos.csprojAssemblyReference.cache
+C:\Users\deivid.lemes\source\repos\AtividadeMamiferos\AtividadeMamiferos\obj\Debug\netcoreapp2.1\AtividadeMamiferos.csproj.CoreCompileInputs.cache
+C:\Users\deivid.lemes\source\repos\AtividadeMamiferos\AtividadeMamiferos\obj\Debug\netcoreapp2.1\AtividadeMamiferos.AssemblyInfoInputs.cache
+C:\Users\deivid.lemes\source\repos\AtividadeMamiferos\AtividadeMamiferos\obj\Debug\netcoreapp2.1\AtividadeMamiferos.AssemblyInfo.cs
+C:\Users\deivid.lemes\source\repos\AtividadeMamiferos\AtividadeMamiferos\obj\Debug\netcoreapp2.1\AtividadeMamiferos.dll
+C:\Users\deivid.lemes\source\repos\AtividadeMamiferos\AtividadeMamiferos\obj\Debug\netcoreapp2.1\AtividadeMamiferos.pdb
